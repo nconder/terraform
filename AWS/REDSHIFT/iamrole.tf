@@ -1,4 +1,3 @@
-# Nicholas Conder nconder@gmail.com
 resource "aws_iam_role" "redshift" {
   name = "redshift_iam_role"
   assume_role_policy = <<EOF
