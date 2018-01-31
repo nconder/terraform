@@ -1,4 +1,3 @@
-# Nicholas Conder nconder@gmail.com
 resource "aws_iam_role_policy" "redshift" {
   name = "redshift_iam_role_policy"
   role = "${aws_iam_role.redshift.id}"
