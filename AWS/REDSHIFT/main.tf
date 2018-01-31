@@ -1,4 +1,3 @@
-# Nicholas Conder nconder@gmail.com
 # Define the common tags for all resources
 locals {
   common_tags = {
