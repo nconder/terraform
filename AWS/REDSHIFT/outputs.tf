@@ -1,4 +1,3 @@
-# Nicholas Conder nconder@gmail.com
 # Output endpoint of the Redshift cluster
 output "redshift_bucket_arn" {
   description = "Redshift S3 Bucket ARN"
