@@ -1,4 +1,3 @@
-# Nicholas Conder nconder@gmail.com
 # variables
 # Deployment region and universal tags
 variable "region" { default = "us-east-1" }
