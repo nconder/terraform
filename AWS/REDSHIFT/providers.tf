@@ -1,4 +1,3 @@
-# Nicholas Conder nconder@gmail.com
 # AWS Keys
 provider "aws" {
   access_key = "${var.aws_access_key}"
